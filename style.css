@@ -1,0 +1,48 @@
+.card a i{
+    font-size: 80px;
+    
+}
+
+.bg-cont{
+    background-color: #82B302;
+}
+
+#user{
+    color: #C25B4A;
+}
+#global{
+    color: #CE9C43;
+}
+#setting{
+    color: #416619;
+}
+#leaf{
+    color: #7DA3B6;
+}
+
+/* .list-group li{
+    float: none;
+    list-style: none;
+}
+.list-group li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 5px 0px 0px 0px;
+    border-bottom: 1px solid #9A9A9A;
+} */
+
+.btn-group{
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color: #82B302;
+}
+.btn-group a{
+
+}
+.btn-group a i{
+    font-size: 18px;
+    color: #fff;
+    background: #000;
+    padding: 10px;
+    border-radius: 50%;
+}
